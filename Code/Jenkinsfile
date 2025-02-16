@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        BUILD_SERVER_IP = '172.31.42.119'
+        BUILD_SERVER_IP = '172.31.4.138'
     }
 
     stages {
